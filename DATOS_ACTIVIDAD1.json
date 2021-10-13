@@ -4,7 +4,7 @@
         {"node":1,"name":"América"},
         {"node":2,"name":"Europa"},
         {"node":3,"name":"Asia"},
-        {"node":4,"name":"África"}, 
+        {"node":4,"name":"África"}
     ],
     "links":[
     {"source":0,"target":1,"value":2},
