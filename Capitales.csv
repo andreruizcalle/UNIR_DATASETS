@@ -1,4 +1,4 @@
-long1;long2;lat1;lat2;pais;porcentaje;monto
+long1,long2,lat1,lat2,pais,porcentaje,monto
 -78.5,-77,-0.22,38.88,United States,23.66,4786.401337
 -78.5,116.38,-0.22,39.92,China,15.79,3193.705414
 -78.5,-79.53,-0.22,8.97,Panama,12.02,2431.352773
