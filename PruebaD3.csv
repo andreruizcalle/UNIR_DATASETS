@@ -1,7 +1,7 @@
-Categoria;Dimension;Color
-Ancho;6;1
-Largo;1;1
-Rugosidad;7;3
-Venosidad;3;3
-Curvatura;9;4
-Cabeza;3;4
+Categoria,Dimension,Color
+Ancho,6,1
+Largo,1,1
+Rugosidad,7,3
+Venosidad,3,3
+Curvatura,9,4
+Cabeza,3,4
